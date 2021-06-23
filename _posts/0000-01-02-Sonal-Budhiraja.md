@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Me leaving my bed to go to couch"
 Use the left arrow to go back!
